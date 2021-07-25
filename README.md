@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaAyman
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Front-End Web Design (HTML - CSS - JavaScript ....)
+- 🌱 I’m currently learning Front-End Web Design (HTML - CSS - JavaScript - React ....)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 To reach me by email maria.ayman1877@gmail.com 
 
